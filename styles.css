@@ -671,3 +671,9 @@
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
+.second_bg h1{
+    background-image: url("image/neon_bg.jpg");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
